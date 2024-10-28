@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋, Welcome!
+
+My name is Fernando Reyes Planes, I am a student from University of Murcia taking Informatic Engineering. 🔧
+
+I am really interested in learning different types of code and coding itself. At the moment studying C++ and learning how to use VS Code.
+
+No projects currently but aiming for them. Learning the basics to develop my skills.
+
 
 <!--
 **fkx24/fkx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
